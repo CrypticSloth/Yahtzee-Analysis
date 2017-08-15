@@ -1,4 +1,4 @@
-# Yahztee-Analysis
+# Yahtzee-Analysis
 In this Repo, I analyze and visualize Yahtzee Data from Freethedice.com.
 
 My goal is to eventually create a AI bot that plays Yahtzee better than the average human.
